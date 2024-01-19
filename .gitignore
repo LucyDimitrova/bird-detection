@@ -161,8 +161,10 @@ cython_debug/
 
 .DS_Store
 database.db
-files/
 runs/
+files/frames/*.jpg
+files/*.csv
+files/*.png
 scripts/yolov8n.pt
 yolov8n.pt
 
